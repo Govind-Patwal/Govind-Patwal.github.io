@@ -14,9 +14,9 @@ Python, Jupyter Notebook, Google Colab, PostgreSQL, AWS RDS, Pandas, NumPy, Djan
 
 ## Contact Me
 I'm always excited to solve new challanges! 
-Email: getintouchwithgovind@gmail.com
-LinkedIn: https://www.linkedin.com/in/govindpatwal
-Portfolio: https://govind-patwal.github.io 
+- Email: getintouchwithgovind@gmail.com
+- LinkedIn: https://www.linkedin.com/in/govindpatwal
+- Portfolio: https://govind-patwal.github.io 
 
 ## Fun Facts about me
 - I have finished 7 Half Marathons, with a PB of 1:50:48

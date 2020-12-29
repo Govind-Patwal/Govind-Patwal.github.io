@@ -1,3 +1,2 @@
-# Portfolio 2
-
-URL - https://govind-patwal.github.io/portfolio2/
+## Website Template Source
+Univeristy of Toronto - Data Analytics and Visualization Bootcamp - 10.7.1 'Create a Portfolio'

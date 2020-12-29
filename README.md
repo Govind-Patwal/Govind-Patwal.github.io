@@ -25,3 +25,6 @@ I'm always excited to solve new challanges!
 
 ## The Career Path
 I am currently seeking a Python Developer or Data Analyst position in the Sales or Project Management Industry.
+
+## Website Template Source
+Data Analytics and Visualization Bootcamp (University of Toronto) - Module 10.7.1 'Create a Portfolio'
